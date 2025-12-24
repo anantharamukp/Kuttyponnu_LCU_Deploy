@@ -12,7 +12,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Anand_2K>𒆜 𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ࿐</a>
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AR_linkz'>UPDATES</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/AR_linkZzz'>UPDATES</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -185,12 +185,12 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 
     CAPTION = """
-<b>@AR_Linkzz
+<b>@AR_LinkZzz
 [{file_name}]</b>
 
 <b>•────•────────•────•
 🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ :[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+5kT8b0Vqefs5OGU9)
-🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+juOWarHYRvtjNjk1)
+🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/AR_LinkZzz)
 •────•────────•────•
 ⚙𝗔ᴅᴠɪsᴏʀ :[𝗔ᴅᴠɪꜱᴏʀ 𝗔ɴᴀɴᴅ ](https://t.me/Anand_2K)
 😎 நன்றி தலைவரே 🙏🏻
@@ -702,11 +702,11 @@ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ /buy_premium"""
 
 <a href='https://whatsapp.com/channel/0029Va9nsinI7BeL9Joeuz16'>𝐎𝐔𝐑 WhatsApp 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
-<a href='https://telegram.me/AR_Linkzz'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://telegram.me/AR_LinkZzz'>𝐎𝐔𝐑 𝐌𝐎𝐕𝐈𝐄 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐀𝐍𝐃 𝐁𝐀𝐂𝐊𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
 <a href='https://t.me/+5kT8b0Vqefs5OGU9'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏</a>
 
-<a href='https://t.me/+juOWarHYRvtjNjk1'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+<a href='https://t.me/AR_LinkZzz'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 
 <a href='https://t.me/+5kT8b0Vqefs5OGU9'>𝐎𝐔𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐌𝐎𝐕𝐈𝐄 𝐆𝐑𝐎𝐔𝐏</a>"""
 
@@ -714,3 +714,4 @@ Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ /buy_premium"""
 
 
     
+
